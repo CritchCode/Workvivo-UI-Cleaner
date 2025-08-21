@@ -13,12 +13,13 @@ This script, to be run directly in the browser console, provides you with three 
 
 That's it!
 
- * INSTRUCTIONS:
- * - When watching a video on Workvivo
- * - Right click anywhere on the browser page, and choose 'Inspect'
- * - Select the tab called 'Console'
- * - Paste all of this script into the console and press 'Enter'. You can now close the browser developer tools pane.
- * - You'll see three green buttons at the bottom of the screen to show/hide the description, chat and emojis 
+
+INSTRUCTIONS:
+ - When watching a livestream or recorded video on Workvivo
+ - Right click anywhere on the browser page, and choose 'Inspect'
+ - Select the tab called 'Console'
+ - Paste all of this script into the console and press 'Enter'. You can now close the browser developer tools pane.
+ - You'll see three green buttons at the bottom of the screen to show/hide the description, chat and emojis 
  
  Any issues contact me Daniel Aldous-Critchley via the issues tab above. If you're a colleague at my company, feel free to reach out in Teams.
 
