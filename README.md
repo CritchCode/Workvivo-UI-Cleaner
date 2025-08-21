@@ -18,7 +18,7 @@ INSTRUCTIONS:
  - When watching a livestream or recorded video on Workvivo
  - Right click anywhere on the browser page, and choose 'Inspect'
  - Select the tab called 'Console'
- - Paste all of this script into the console and press 'Enter'. You can now close the browser developer tools pane.
+ - Paste all of the script from 'Workvivo-UI-Cleaner.js' into the console and press 'Enter'. You can now close the browser developer tools pane.
  - You'll see three green buttons at the bottom of the screen to show/hide the description, chat and emojis 
  
  Any issues contact me via the issues tab above. If you're a colleague at my company, feel free to reach out in Teams - Daniel Aldous-Critchley.
