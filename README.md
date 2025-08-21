@@ -13,7 +13,7 @@ This script, to be run directly in the browser console, provides you with three 
 2. Hide/show chat
 3. Hide/show emoji reactions
 
-<img width="454" height="63" alt="image" src="https://github.com/user-attachments/assets/f6baead4-431a-4c08-9be6-3eb38d304f70" />
+<img width="444" height="57" alt="image" src="https://github.com/user-attachments/assets/1d53d2ed-4e8d-406b-bdd5-44b217653f61" />
 
 That's it!
 
