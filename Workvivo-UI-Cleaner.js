@@ -2,12 +2,14 @@
  * PURPOSE: To add buttons to hide or show the description, chat pane and/or the emojis which overlay the video
  * 
  * INSTRUCTIONS:
- * - Right click anywhere on the browser page, choose 'Inspect'
+ * - When watching a livestream or recorded video on Workvivo
+ * - Right click anywhere on the browser page, and choose 'Inspect'
  * - Select the tab called 'Console'
- * - Paste all of this script into the console and press 'Enter'
- * - You'll see two buttons at the top of the screen to show/hide chat and emojis
+ * - Paste all of this script into the console and press 'Enter'. You can now close the browser developer tools pane.
+ * - You'll see three green buttons at the bottom of the screen to show/hide the description, chat and emojis
  * 
- * - Any isssues contact: Daniel Aldous-Critchley (dan.aldouscritchley@servicenow.com)
+ * - Any issues contact me via https://github.com/CritchCode/Workvivo-UI-Cleaner
+ * - Or if you're at my company, feel free to reach out via Teams - Daniel Aldous-Critchley.
  * 
 **/
 
