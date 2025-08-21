@@ -2,14 +2,18 @@ Workvivo UI Cleaner ReadMe:
 
 Workvivo appears to prevent users from setting up the user interface to their liking when showing a livestream or recording playback.
 
-- The description can't be hidden once you've read it
-- The emojis that overlay the video can be annoying and get in the way of adjusting video settings.
-- The chat can be distracting
+- The video title and description can't be hidden after you've read it.
+- The emoji reactions that overlay the video can be annoying and get in the way of adjusting video settings.
+- The chat can be distracting.
+
+While picture-in-picture mode can allow you to overcome some of these issues, it's a pretty restricted viewing experience. E.g. No scrolling without heading back to the main tab. Also, if I want the chat, but not the emoji reactions, there is no option for that.
 
 This script, to be run directly in the browser console, provides you with three buttons:
 1. Hide/show description
 2. Hide/show chat
-3. Hide/show emojis
+3. Hide/show emoji reactions
+
+<img width="454" height="63" alt="image" src="https://github.com/user-attachments/assets/f6baead4-431a-4c08-9be6-3eb38d304f70" />
 
 That's it!
 
