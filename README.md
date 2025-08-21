@@ -1,4 +1,4 @@
-README:
+Workvivo UI Cleaner ReadMe:
 
 Workvivo appears to prevent users from setting up the user interface to their liking when showing a livestream or recording playback.
 
@@ -21,7 +21,7 @@ INSTRUCTIONS:
  - Paste all of this script into the console and press 'Enter'. You can now close the browser developer tools pane.
  - You'll see three green buttons at the bottom of the screen to show/hide the description, chat and emojis 
  
- Any issues contact me Daniel Aldous-Critchley via the issues tab above. If you're a colleague at my company, feel free to reach out in Teams.
+ Any issues contact me via the issues tab above. If you're a colleague at my company, feel free to reach out in Teams - Daniel Aldous-Critchley.
 
 
 ---
